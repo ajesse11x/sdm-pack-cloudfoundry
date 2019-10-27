@@ -28,7 +28,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/microgrammar": "1.0.1-master.20181109093737",
+    "@atomist/microgrammar": "1.2.1",
     "@atomist/slack-messages": "1.1.0-master.20181115202354",
     "@types/lodash": "^4.14.116",
     "archiver": "^2.1.1",
