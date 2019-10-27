@@ -29,7 +29,7 @@
   "types": "./index.d.ts",
   "dependencies": {
     "@atomist/microgrammar": "1.0.1-master.20181109093737",
-    "@atomist/slack-messages": "1.1.0-master.20181115202354",
+    "@atomist/slack-messages": "1.1.1",
     "@types/lodash": "^4.14.116",
     "archiver": "^2.1.1",
     "axios": "^0.18.0",
