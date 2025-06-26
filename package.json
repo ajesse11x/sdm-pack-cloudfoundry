@@ -31,14 +31,14 @@
     "@atomist/microgrammar": "1.0.1-master.20181109093737",
     "@atomist/slack-messages": "1.1.0-master.20181115202354",
     "@types/lodash": "^4.14.116",
-    "archiver": "^2.1.1",
+    "archiver": "^7.0.0",
     "axios": "^0.18.0",
     "cf-client": "^0.13.26",
     "form-data": "^2.3.2",
     "js-yaml": "^3.12.0",
     "lodash": "^4.17.10",
     "random-word": "^2.0.0",
-    "request": "^2.87.0"
+    "request": "^2.88.2"
   },
   "peerDependencies": {
     "@atomist/automation-client": ">=1.0.1",
